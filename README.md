@@ -27,6 +27,19 @@ The data was first normalized in Excel before being transformed in Power Query.
 ## Insights
 - My insights reveals that Florida, California, and New York reported the highest collected Items, with land-based cleanups proving most effective type of cleanup, gathering approximately 196,000 pounds. Notably, September saw the peak in item accumulation.
 - Further insights show that cigarette butts were the most commonly collected item, while plastic waste emerged as the top category, particularly plastic pieces. Geographically, Florida ranked highest for both cigarette butt and plastic piece collections.
+## Conclusion
+- Based on the summary findings, the increase in pollution levels likely stems from high-frequency littering in heavily populated coastal areas like Florida, California, and New York. Land-based activities contribute significantly to pollution, as reflected by the high volume of waste collected in these regions. Additionally, the spike in September suggests seasonal factors or events that could lead to increased littering during that time.
+- In terms of contaminants, plastic waste is the most prevalent, with plastic pieces and cigarette butts leading as the most commonly found items. This indicates that single-use plastics and cigarette waste are major contributors, underscoring the impact of disposable products on marine and coastal pollution.
+## Recommendations
+- Enhanced Waste Management Policies
+- Seasonal Cleanup Initiatives
+- Public Awareness Campaigns
+
+
+
+
+
+
 
 
 
