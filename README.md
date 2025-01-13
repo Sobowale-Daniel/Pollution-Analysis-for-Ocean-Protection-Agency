@@ -34,6 +34,9 @@ The data was first normalized in Excel before being transformed in Power Query.
 - Enhanced Waste Management Policies
 - Seasonal Cleanup Initiatives
 - Public Awareness Campaigns
+## Download
+<a href = "https://github.com/Sobowale-Daniel/Pollution-Analysis-for-Ocean-Protection-Agency/raw/refs/heads/main/Assets/Sobowale%20Daniel%20Pollution%20Analysis.pbix"> Download The Power BI File </a>
+
 
 
 
